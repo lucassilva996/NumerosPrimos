@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
+=======
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\Lucas\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
+>>>>>>> e8e7d42c368e8ae46807e2cf21a2e5c08418c9e5
